@@ -1,4 +1,4 @@
-# angular-dashboard-seedxx
+# angular-dashboard-seedxx_dapc
 Angular dashboard sample application with nodejs REST backend integration built using latest angular best practices. 
 
 This seed is a sort of free version of a template that may be found [here](http://bootstrapbay.com/) or [here](http://themeforest.net/category/site-templates/admin-templates) with **working backend integration**. 
